@@ -1,5 +1,5 @@
 ## David Repullo 
-## Estudiante de Ciencia de Datos UCM
+## Estudiante de Ciencia de Datos UCM <a href='https://emojitool.com/closed-book'>📕</a>
 
 <!--
 **davidrrepullo/davidrrepullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
