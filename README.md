@@ -1,4 +1,5 @@
-## Hi there 👋
+## David Repullo 
+## Estudiante de Ciencia de Datos UCM
 
 <!--
 **davidrrepullo/davidrrepullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
